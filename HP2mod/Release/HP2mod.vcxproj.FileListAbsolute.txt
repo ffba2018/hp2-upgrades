@@ -1,0 +1,5 @@
+C:\Users\mk200\Desktop\HP2mod\Release\D3DCompiler_43.dll
+C:\Users\mk200\Desktop\HP2mod\Release\d3dx9_43.dll
+C:\Users\mk200\Desktop\HP2mod\Release\d3dx10_43.dll
+C:\Users\mk200\Desktop\HP2mod\Release\d3dx11_43.dll
+C:\Users\mk200\Desktop\HP2mod\HP2mod\Release\HP2mod.vcxproj.Up2Date
